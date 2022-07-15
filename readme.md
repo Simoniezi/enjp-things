@@ -4,4 +4,4 @@
 
 ## Index
 
-[Wick Permit levels](ENJP_Wick_permission_levels.md)
+[Wick Permit levels](ENJP%20Wick%20permission%20levels.md)
