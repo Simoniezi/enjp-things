@@ -2,6 +2,8 @@
 
 This document only involves the abilities that Wick provide, not the abilities that is provided by other bots and Discord itself.
 
+[Use this to return to the main page](readme.md)
+
 ---
 
 ## **Permit 5**
